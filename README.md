@@ -1,3 +1,3 @@
-# Macro-An-lisis-automatizado-del-fenotipo-de-macr-fagos-TAMs-
+# Macro Analisis automatizado del fenotipo de macrofagos TAMs
 Macro de Fiji para la cuantificación automatizada de parámetros morfológicos y niveles de fluorescencia (ej. CD206) en macrófagos a nivel de célula individual.
 Este repositorio contiene un script automatizado desarrollado en Fiji (ImageJ) para caracterizar el fenotipo de macrófagos asociados a tumores (TAMs) a partir de imágenes confocales. La herramienta combina modelos de inteligencia artificial (Trainable Weka Segmentation) y umbralización digital para aislar células mononucleares y extraer métricas exactas de tamaño celular e intensidad de fluorescencia.
